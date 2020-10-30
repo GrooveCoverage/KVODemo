@@ -1,0 +1,3 @@
+# KVODemo
+
+主要内容包括KVO的实现机制探索、KVO的对多关系依赖，还有第三方库FBKVOController的简单使用，FBKVOController在facebook的github中已找不到了，做个存根仅供学习。
